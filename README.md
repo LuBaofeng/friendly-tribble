@@ -1,3 +1,3 @@
 # friendly-tribble
-My first Github respository
+#My first Github respository
 print("Hello world!")
